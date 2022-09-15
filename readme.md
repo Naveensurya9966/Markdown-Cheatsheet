@@ -163,5 +163,5 @@ fold note
 
 custom link [Go to Heading 1](#headding-1)
 
-- [ ] checked 
+- [ ] Unchecked 
 - [X] Checked
